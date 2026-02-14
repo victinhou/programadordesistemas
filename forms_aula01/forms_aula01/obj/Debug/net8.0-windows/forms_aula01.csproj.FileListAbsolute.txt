@@ -1,0 +1,16 @@
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\bin\Debug\net8.0-windows\forms_aula01.exe
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\bin\Debug\net8.0-windows\forms_aula01.deps.json
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\bin\Debug\net8.0-windows\forms_aula01.runtimeconfig.json
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\bin\Debug\net8.0-windows\forms_aula01.dll
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\bin\Debug\net8.0-windows\forms_aula01.pdb
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\forms_aula01.Form1.resources
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\forms_aula01.csproj.GenerateResource.cache
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\forms_aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\forms_aula01.AssemblyInfoInputs.cache
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\forms_aula01.AssemblyInfo.cs
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\forms_aula01.csproj.CoreCompileInputs.cache
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\forms_aula01.dll
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\refint\forms_aula01.dll
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\forms_aula01.pdb
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\forms_aula01.genruntimeconfig.cache
+C:\Users\victor.pcribeiro\source\repos\forms_aula01\forms_aula01\obj\Debug\net8.0-windows\ref\forms_aula01.dll
